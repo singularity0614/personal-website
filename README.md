@@ -1,3 +1,5 @@
-# my-nodejs-service
+# Hello World
 
-A project to create a website for myself
+This is a project to create a website for myself
+
+www.jerryjin.dev
