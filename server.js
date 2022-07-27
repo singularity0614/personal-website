@@ -9,7 +9,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(__dirname));
 
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, '/src/views/index.html'));
+    res.sendFile(path.join(__dirname, '/src/views/workingon.html'));
 });
 
 app.get('/about', (req, res) => {
